@@ -6,7 +6,43 @@
         <description>Recent content in Posts on Bingersoda</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 04 Jul 2025 11:10:03 -0600</lastBuildDate><atom:link href="https://bingersoda.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 08 Aug 2025 15:20:10 -0600</lastBuildDate><atom:link href="https://bingersoda.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>当钱拿到手之后——读The Wealthy Barber Returns</title>
+        <link>https://bingersoda.github.io/p/%E5%BD%93%E9%92%B1%E6%8B%BF%E5%88%B0%E6%89%8B%E4%B9%8B%E5%90%8E%E8%AF%BBthe-wealthy-barber-returns/</link>
+        <pubDate>Fri, 08 Aug 2025 15:20:10 -0600</pubDate>
+        
+        <guid>https://bingersoda.github.io/p/%E5%BD%93%E9%92%B1%E6%8B%BF%E5%88%B0%E6%89%8B%E4%B9%8B%E5%90%8E%E8%AF%BBthe-wealthy-barber-returns/</guid>
+        <description>&lt;p&gt;我之前一直想读一本“正经”的有关于理财的书。这里的理财不是单指投资，而是我怎么处理钱，怎么考虑储蓄、投资、保险、债务等等问题。看了很多乱七八糟的书，还是一头雾水。在我看来，怎么处理钱应该是简单直给、化繁为简的。后来Claude推荐了加拿大的理财书 The Wealthy Barber Returns，学到了不少。&lt;/p&gt;
+&lt;p&gt;首先说一下大致的支出占比，不过这一些也是因人而异，重要的是保持10%的储蓄率。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;住房（包括utility等）：25-30%&lt;/li&gt;
+&lt;li&gt;交通：10-15%&lt;/li&gt;
+&lt;li&gt;保险费用：10-15%&lt;/li&gt;
+&lt;li&gt;债务（按照年薪计）：40%以下&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;储蓄&#34;&gt;储蓄&lt;/h2&gt;
+&lt;p&gt;作者说，要在拿到钱的时候，立即先存10%，剩下的再拿去分配。说说这些储蓄要怎么办。&lt;/p&gt;
+&lt;p&gt;首先，建立一个6-9个月的紧急备用金，保证意外情况发生时，还能支撑半年。紧急备用金放到一个平常用不到的地方（卡里）。重点是不要花里面的钱，是真的为意外情况准备的。&lt;/p&gt;
+&lt;p&gt;存完备用金之后，可以把它存放到RRSP和TFSA里。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;RRSP是加拿大退休储蓄账户，这里存进去的是按税前的钱算，意思就是说税前的钱存进去一部分，剩下的才是需要交税的。这个账户比较适合前期收入高，年纪大了收入少的人。这样收入高的时候交的税更少，等年纪大了收入低了，多取点钱出来，也不用交很多税。从RRSP里取钱是要交税的。实际操作又会有点tricky，因为存钱的时候也是用税后的钱去交，然后再退税回来。因为人总感觉退税是一笔意外之财，可以花掉，如果花掉了那存RRSP完全没有意义——你把本应该节省下来的那笔税给花了！&lt;/li&gt;
+&lt;li&gt;TFSA是把税后的钱存进去，然后里面的所有收益都是不收税的，取出来也不收税，比较灵活，当然，灵活的坏处也是存不住钱。根据作者的说法，如果你年轻时和年老时交的税率都差不多，那RRSP和TFSA其实收获也差不多。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;总的来说，两个玩意儿能存满就存满吧。&lt;/p&gt;
+&lt;p&gt;作者力求减少负债，让我们不要被信用卡迷惑。加拿大的银行确实很让人讨厌，感觉就是想让每个人深受消费主义陷阱然后从银行借钱。我才来一年，信用卡额度已经升到了4500。最近我也直接让特子用现金买菜了，减少信用卡的消费。&lt;/p&gt;
+&lt;h2 id=&#34;投资&#34;&gt;投资&lt;/h2&gt;
+&lt;p&gt;在这两个账户里，你还可以进行投资，不管是买GIC、基金还是股票。&lt;/p&gt;
+&lt;p&gt;作者的推荐很符合我的路线——力求简单。投资就投指数基金或者ETF，定投，不要总是关注、预测，就放在那儿长一点的时间来check一下就行。&lt;/p&gt;
+&lt;p&gt;里面提到了一个我以前看到过但是又经常忘记的概念——复利。复利，越早开始越好。&lt;/p&gt;
+&lt;p&gt;有关复利有一个72法则，就是把72除以利率，得到的数是按照这个利率你的钱多少年会翻一倍。如果利率是6%，那就是12年。&lt;/p&gt;
+&lt;p&gt;有一个神奇的点是关于房子的复利的。我们潜意识里面总是觉得房子的升值潜能非常高，但其实忽略了房子持有的时间。里面有一个例子，有一对夫妇买了房子从一开始的5万涨到了20万，持有时间为40年。他们觉得这个涨幅是超过所有基金股票的。然而，用72法则算一下，资产翻倍的时间为20年，利率其实才3.6%，这还不算上任何因购房和维护产生的花费。算复利让我觉得很有趣。&lt;/p&gt;
+&lt;h2 id=&#34;保险&#34;&gt;保险&lt;/h2&gt;
+&lt;p&gt;然后比较有收获的就是保险部分。&lt;/p&gt;
+&lt;p&gt;保险五花八门，如果聊到寿险，作者推荐的就两个字——term policy。不要买储蓄型终身制的，就买定期寿险，每10/20/30年的那种。有些人反对他，觉得如果安然无恙就是把钱丢了，不如储蓄型可以留着。但是我们日常生活中的保险，基本都是定期的，如果房子烧了保险可以赔，房子没烧我们也不会觉得亏钱了呀，这和定期寿险是一个道理。定期寿险明显要比储蓄型的保险要便宜多，花点小钱就可以买个保障。&lt;/p&gt;
+&lt;p&gt;这本书的内容并不多，而且作者总是插科打诨，但总体来说还是学到不少，而且答案足够简单、明晰。本来经济的事情就应该化繁为简才对！&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>你的身体不是你的身体，你的头脑也不是</title>
         <link>https://bingersoda.github.io/p/%E4%BD%A0%E7%9A%84%E8%BA%AB%E4%BD%93%E4%B8%8D%E6%98%AF%E4%BD%A0%E7%9A%84%E8%BA%AB%E4%BD%93%E4%BD%A0%E7%9A%84%E5%A4%B4%E8%84%91%E4%B9%9F%E4%B8%8D%E6%98%AF/</link>
         <pubDate>Fri, 04 Jul 2025 11:10:03 -0600</pubDate>
